@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Chen",
+    "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
+    "role": "Senior Trader",
+    "rating": 4.9,
+    "specialties": ["Technical Analysis", "Risk Management", "EUR/USD"],
+    "experience": "8 years",
+    "students": 1247,
+    "price": 150,
+    "availability": "Available",
+    "bio": "Professional forex trader with 8 years of experience. Specializes in technical analysis and risk management. Former investment banker turned full-time trader.",
+    "achievements": ["Top 1% Trader", "Mentor of the Year 2023", "1000+ Successful Students"]
+  },
+  {
+    "id": 2,
+    "name": "Marcus Rodriguez",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+    "role": "Mentor",
+    "rating": 4.8,
+    "specialties": ["Fundamental Analysis", "News Trading", "GBP/USD"],
+    "experience": "12 years",
+    "students": 892,
+    "price": 200,
+    "availability": "Available",
+    "bio": "Veteran trader with 12 years in the markets. Expert in fundamental analysis and news trading. Has mentored hundreds of successful traders.",
+    "achievements": ["Fundamental Analysis Expert", "News Trading Specialist", "500+ Profitable Students"]
+  },
+  {
+    "id": 3,
+    "name": "Elena Volkov",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
+    "role": "Top Trader",
+    "rating": 4.9,
+    "specialties": ["Scalping", "High-Frequency Trading", "JPY Pairs"],
+    "experience": "6 years",
+    "students": 654,
+    "price": 180,
+    "availability": "Limited",
+    "bio": "Professional scalper specializing in JPY pairs. Known for her precision and discipline in high-frequency trading strategies.",
+    "achievements": ["Scalping Champion", "High-Frequency Expert", "300+ Successful Scalpers"]
+  },
+  {
+    "id": 4,
+    "name": "Lisa Thompson",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&crop=face",
+    "role": "Mentor",
+    "rating": 4.7,
+    "specialties": ["Trading Psychology", "Swing Trading", "AUD/USD"],
+    "experience": "10 years",
+    "students": 523,
+    "price": 160,
+    "availability": "Available",
+    "bio": "Expert in trading psychology and swing trading strategies. Helps traders overcome emotional barriers and develop consistent profitability.",
+    "achievements": ["Psychology Expert", "Swing Trading Specialist", "400+ Mentored Traders"]
+  },
+  {
+    "id": 5,
+    "name": "David Kim",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+    "role": "Senior Trader",
+    "rating": 4.8,
+    "specialties": ["Algorithmic Trading", "Multi-Timeframe Analysis", "Major Pairs"],
+    "experience": "15 years",
+    "students": 387,
+    "price": 250,
+    "availability": "Waitlist",
+    "bio": "Former hedge fund manager with 15 years of experience. Specializes in algorithmic trading and advanced technical analysis.",
+    "achievements": ["Algorithm Expert", "Hedge Fund Veteran", "200+ Algorithmic Traders"]
+  },
+  {
+    "id": 6,
+    "name": "Alex Johnson",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=face",
+    "role": "Mentor",
+    "rating": 4.6,
+    "specialties": ["Fundamental Analysis", "Central Bank Policies", "Exotic Pairs"],
+    "experience": "9 years",
+    "students": 456,
+    "price": 140,
+    "availability": "Available",
+    "bio": "Fundamental analysis expert with deep knowledge of central bank policies and economic indicators. Specializes in exotic currency pairs.",
+    "achievements": ["Fundamental Expert", "Central Bank Specialist", "350+ Successful Students"]
+  }
+]
+

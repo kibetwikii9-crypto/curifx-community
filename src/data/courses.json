@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Forex Trading Mastery",
+    "excerpt": "Learn everything from basic concepts to advanced strategies in this comprehensive course.",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=400&h=250&fit=crop",
+    "price": 299,
+    "members": 1247,
+    "rating": 4.8,
+    "instructor": "Sarah Chen",
+    "duration": "12 weeks",
+    "level": "Beginner to Advanced",
+    "description": "This comprehensive course covers everything you need to know about forex trading, from basic concepts to advanced strategies. You'll learn technical analysis, fundamental analysis, risk management, and trading psychology."
+  },
+  {
+    "id": 2,
+    "title": "Technical Analysis Fundamentals",
+    "excerpt": "Master chart patterns, indicators, and technical analysis techniques used by professional traders.",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=250&fit=crop",
+    "price": 199,
+    "members": 892,
+    "rating": 4.7,
+    "instructor": "Marcus Rodriguez",
+    "duration": "8 weeks",
+    "level": "Intermediate",
+    "description": "Deep dive into technical analysis with hands-on practice using real market data. Learn to identify trends, support and resistance levels, and use various indicators effectively."
+  },
+  {
+    "id": 3,
+    "title": "Risk Management Strategies",
+    "excerpt": "Protect your capital with proven risk management techniques and position sizing methods.",
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&h=250&fit=crop",
+    "price": 149,
+    "members": 654,
+    "rating": 4.9,
+    "instructor": "Elena Volkov",
+    "duration": "6 weeks",
+    "level": "All Levels",
+    "description": "Learn how to protect your trading capital with proper risk management. This course covers position sizing, stop losses, and portfolio management strategies."
+  },
+  {
+    "id": 4,
+    "title": "Forex Psychology & Mindset",
+    "excerpt": "Develop the mental discipline and emotional control needed for consistent trading success.",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+    "price": 179,
+    "members": 523,
+    "rating": 4.6,
+    "instructor": "Lisa Thompson",
+    "duration": "4 weeks",
+    "level": "All Levels",
+    "description": "Master the psychological aspects of trading. Learn to control emotions, maintain discipline, and develop the mindset of successful traders."
+  },
+  {
+    "id": 5,
+    "title": "Advanced Trading Strategies",
+    "excerpt": "Learn sophisticated trading strategies used by institutional traders and hedge funds.",
+    "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=250&fit=crop",
+    "price": 399,
+    "members": 387,
+    "rating": 4.8,
+    "instructor": "David Kim",
+    "duration": "10 weeks",
+    "level": "Advanced",
+    "description": "Advanced strategies including algorithmic trading, multi-timeframe analysis, and institutional trading techniques. For experienced traders looking to take their skills to the next level."
+  },
+  {
+    "id": 6,
+    "title": "Fundamental Analysis Mastery",
+    "excerpt": "Understand how economic indicators and news events drive currency movements.",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=250&fit=crop",
+    "price": 229,
+    "members": 456,
+    "rating": 4.5,
+    "instructor": "Alex Johnson",
+    "duration": "6 weeks",
+    "level": "Intermediate",
+    "description": "Learn to analyze economic data, central bank policies, and geopolitical events to make informed trading decisions based on fundamental analysis."
+  }
+]
+

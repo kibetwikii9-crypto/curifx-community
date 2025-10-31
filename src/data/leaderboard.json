@@ -1,0 +1,103 @@
+[
+  {
+    "rank": 1,
+    "name": "Sarah Chen",
+    "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=40&h=40&fit=crop&crop=face",
+    "role": "Senior Trader",
+    "profit": "+$47,250",
+    "winRate": "78%",
+    "trades": 156,
+    "change": "+12.5%"
+  },
+  {
+    "rank": 2,
+    "name": "Marcus Rodriguez",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=40&h=40&fit=crop&crop=face",
+    "role": "Mentor",
+    "profit": "+$38,920",
+    "winRate": "72%",
+    "trades": 134,
+    "change": "+8.3%"
+  },
+  {
+    "rank": 3,
+    "name": "Elena Volkov",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=40&h=40&fit=crop&crop=face",
+    "role": "Top Trader",
+    "profit": "+$32,180",
+    "winRate": "85%",
+    "trades": 89,
+    "change": "+15.2%"
+  },
+  {
+    "rank": 4,
+    "name": "Lisa Thompson",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=40&h=40&fit=crop&crop=face",
+    "role": "Mentor",
+    "profit": "+$28,450",
+    "winRate": "69%",
+    "trades": 112,
+    "change": "+6.7%"
+  },
+  {
+    "rank": 5,
+    "name": "David Kim",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=40&h=40&fit=crop&crop=face",
+    "role": "Senior Trader",
+    "profit": "+$25,630",
+    "winRate": "74%",
+    "trades": 98,
+    "change": "+9.1%"
+  },
+  {
+    "rank": 6,
+    "name": "Alex Johnson",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=40&h=40&fit=crop&crop=face",
+    "role": "Mentor",
+    "profit": "+$22,890",
+    "winRate": "71%",
+    "trades": 87,
+    "change": "+5.4%"
+  },
+  {
+    "rank": 7,
+    "name": "James Wilson",
+    "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=40&h=40&fit=crop&crop=face",
+    "role": "Community Member",
+    "profit": "+$19,750",
+    "winRate": "66%",
+    "trades": 76,
+    "change": "+7.8%"
+  },
+  {
+    "rank": 8,
+    "name": "Michael Brown",
+    "avatar": "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?w=40&h=40&fit=crop&crop=face",
+    "role": "Community Member",
+    "profit": "+$16,420",
+    "winRate": "68%",
+    "trades": 65,
+    "change": "+4.2%"
+  },
+  {
+    "rank": 9,
+    "name": "Robert Taylor",
+    "avatar": "https://images.unsplash.com/photo-1507591064344-4c6ce005b128?w=40&h=40&fit=crop&crop=face",
+    "role": "Community Member",
+    "profit": "+$14,380",
+    "winRate": "63%",
+    "trades": 58,
+    "change": "+3.6%"
+  },
+  {
+    "rank": 10,
+    "name": "Maria Garcia",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=40&h=40&fit=crop&crop=face",
+    "role": "Community Member",
+    "profit": "+$12,650",
+    "winRate": "59%",
+    "trades": 45,
+    "change": "+2.1%"
+  }
+]
+

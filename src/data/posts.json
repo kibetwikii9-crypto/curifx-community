@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "author": "Sarah Chen",
+    "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
+    "role": "Senior Trader",
+    "title": "EUR/USD Analysis: Bullish Momentum Building",
+    "body": "After analyzing the recent price action and fundamental factors, I'm seeing strong bullish signals for EUR/USD. The pair has broken above the key resistance at 1.0850 and is now testing the next level at 1.0920. With ECB maintaining a hawkish stance and US economic data showing mixed signals, I expect this uptrend to continue...",
+    "tags": ["EUR/USD", "Technical Analysis", "Bullish"],
+    "likes": 47,
+    "comments": 12,
+    "shares": 8,
+    "time": "2 hours ago",
+    "pinned": true,
+    "commenters": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=40&h=40&fit=crop&crop=face",
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=40&h=40&fit=crop&crop=face",
+      "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=40&h=40&fit=crop&crop=face"
+    ]
+  },
+  {
+    "id": 2,
+    "author": "Marcus Rodriguez",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+    "role": "Mentor",
+    "title": "Risk Management: The Foundation of Successful Trading",
+    "body": "I've been trading for over 15 years, and I can tell you that risk management is what separates profitable traders from the rest. Here are the key principles I follow: 1) Never risk more than 2% of your account on a single trade, 2) Always use stop losses, 3) Diversify your positions...",
+    "tags": ["Risk Management", "Education", "Trading Tips"],
+    "likes": 89,
+    "comments": 23,
+    "shares": 15,
+    "time": "4 hours ago",
+    "pinned": false,
+    "commenters": [
+      "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=40&h=40&fit=crop&crop=face",
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=40&h=40&fit=crop&crop=face"
+    ]
+  },
+  {
+    "id": 3,
+    "author": "Elena Volkov",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
+    "role": "Top Trader",
+    "title": "GBP/JPY Signal: Long Entry Opportunity",
+    "body": "GBP/JPY is showing a classic bullish setup. Price has formed a double bottom pattern and is now breaking above the neckline. Entry: 185.50, Stop Loss: 184.80, Take Profit: 187.20. Risk/Reward ratio is excellent at 1:2.4. This aligns with the broader uptrend in GBP strength...",
+    "tags": ["GBP/JPY", "Signal", "Long"],
+    "likes": 34,
+    "comments": 8,
+    "shares": 12,
+    "time": "6 hours ago",
+    "pinned": false,
+    "commenters": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=40&h=40&fit=crop&crop=face",
+      "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=40&h=40&fit=crop&crop=face",
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=40&h=40&fit=crop&crop=face",
+      "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=40&h=40&fit=crop&crop=face"
+    ]
+  },
+  {
+    "id": 4,
+    "author": "David Kim",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+    "role": "Community Member",
+    "title": "Weekly Market Recap: Central Bank Decisions Impact",
+    "body": "This week was dominated by central bank decisions. The Fed kept rates unchanged but signaled potential cuts in 2024, while the ECB maintained its hawkish stance. The Bank of Japan surprised markets by adjusting its yield curve control. These decisions created significant volatility across major pairs...",
+    "tags": ["Market Recap", "Central Banks", "Volatility"],
+    "likes": 56,
+    "comments": 18,
+    "shares": 9,
+    "time": "8 hours ago",
+    "pinned": false,
+    "commenters": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=40&h=40&fit=crop&crop=face",
+      "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=40&h=40&fit=crop&crop=face"
+    ]
+  },
+  {
+    "id": 5,
+    "author": "Lisa Thompson",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&crop=face",
+    "role": "Mentor",
+    "title": "Psychology of Trading: Managing Emotions",
+    "body": "Trading psychology is often overlooked but it's crucial for long-term success. Fear and greed are the two emotions that destroy most traders. Here's how I manage them: 1) Stick to your trading plan no matter what, 2) Take breaks when you're emotional, 3) Journal your trades to identify patterns...",
+    "tags": ["Psychology", "Emotions", "Trading Plan"],
+    "likes": 72,
+    "comments": 21,
+    "shares": 14,
+    "time": "12 hours ago",
+    "pinned": false,
+    "commenters": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=40&h=40&fit=crop&crop=face",
+      "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=40&h=40&fit=crop&crop=face",
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=40&h=40&fit=crop&crop=face"
+    ]
+  },
+  {
+    "id": 6,
+    "author": "Alex Johnson",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=face",
+    "role": "Senior Trader",
+    "title": "AUD/USD: Bearish Reversal Pattern",
+    "body": "AUD/USD is showing signs of exhaustion after the recent rally. The pair has formed a bearish engulfing pattern on the daily chart, suggesting a potential reversal. With RBA dovish comments and strong USD momentum, I'm looking for short opportunities around 0.6750...",
+    "tags": ["AUD/USD", "Bearish", "Reversal"],
+    "likes": 28,
+    "comments": 7,
+    "shares": 5,
+    "time": "1 day ago",
+    "pinned": false,
+    "commenters": [
+      "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=40&h=40&fit=crop&crop=face",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=40&h=40&fit=crop&crop=face"
+    ]
+  }
+]
+

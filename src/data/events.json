@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "title": "Live Trading Session with Sarah Chen",
+    "date": "2024-01-15",
+    "time": "14:00",
+    "type": "Live Trading",
+    "description": "Join Sarah for a live trading session covering EUR/USD analysis and entry strategies.",
+    "link": "/live-trading/sarah-chen",
+    "color": "blue",
+    "duration": "2 hours"
+  },
+  {
+    "id": 2,
+    "title": "Risk Management Masterclass",
+    "date": "2024-01-18",
+    "time": "16:00",
+    "type": "Course Drop",
+    "description": "New course release: Advanced Risk Management Strategies for Professional Traders.",
+    "link": "/courses/risk-management",
+    "color": "gold",
+    "duration": "Self-paced"
+  },
+  {
+    "id": 3,
+    "title": "Mentorship Session - Marcus Rodriguez",
+    "date": "2024-01-20",
+    "time": "10:00",
+    "type": "Mentorship",
+    "description": "One-on-one mentorship session covering fundamental analysis techniques.",
+    "link": "/mentorship/marcus-rodriguez",
+    "color": "green",
+    "duration": "1 hour"
+  },
+  {
+    "id": 4,
+    "title": "Weekly Market Analysis",
+    "date": "2024-01-22",
+    "time": "09:00",
+    "type": "Live Trading",
+    "description": "Weekly market analysis covering major pairs and upcoming economic events.",
+    "link": "/live-trading/weekly-analysis",
+    "color": "blue",
+    "duration": "1.5 hours"
+  },
+  {
+    "id": 5,
+    "title": "Trading Psychology Workshop",
+    "date": "2024-01-25",
+    "time": "15:00",
+    "type": "Course Drop",
+    "description": "New workshop: Mastering Trading Psychology and Emotional Control.",
+    "link": "/courses/trading-psychology",
+    "color": "gold",
+    "duration": "Self-paced"
+  },
+  {
+    "id": 6,
+    "title": "Mentorship Session - Elena Volkov",
+    "date": "2024-01-28",
+    "time": "11:00",
+    "type": "Mentorship",
+    "description": "Scalping strategies and high-frequency trading techniques.",
+    "link": "/mentorship/elena-volkov",
+    "color": "green",
+    "duration": "1 hour"
+  },
+  {
+    "id": 7,
+    "title": "NFP Trading Strategy Session",
+    "date": "2024-02-02",
+    "time": "13:30",
+    "type": "Live Trading",
+    "description": "Special session on Non-Farm Payroll trading strategies and risk management.",
+    "link": "/live-trading/nfp-strategy",
+    "color": "blue",
+    "duration": "2 hours"
+  },
+  {
+    "id": 8,
+    "title": "Technical Analysis Course Launch",
+    "date": "2024-02-05",
+    "time": "12:00",
+    "type": "Course Drop",
+    "description": "Launch of the comprehensive Technical Analysis Fundamentals course.",
+    "link": "/courses/technical-analysis",
+    "color": "gold",
+    "duration": "Self-paced"
+  },
+  {
+    "id": 9,
+    "title": "Mentorship Session - Lisa Thompson",
+    "date": "2024-02-08",
+    "time": "14:00",
+    "type": "Mentorship",
+    "description": "Swing trading strategies and position management techniques.",
+    "link": "/mentorship/lisa-thompson",
+    "color": "green",
+    "duration": "1 hour"
+  },
+  {
+    "id": 10,
+    "title": "Central Bank Policy Analysis",
+    "date": "2024-02-12",
+    "time": "10:00",
+    "type": "Live Trading",
+    "description": "Analysis of recent central bank decisions and their impact on currency markets.",
+    "link": "/live-trading/central-bank-analysis",
+    "color": "blue",
+    "duration": "1.5 hours"
+  }
+]
+
