@@ -25,58 +25,54 @@ const Navbar = () => {
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 h-20 backdrop-blur-md bg-black/40 border-b border-primary-border shadow-lg">
       <div className="max-w-[1440px] mx-auto px-6 lg:px-8 h-full flex items-center justify-between">
-        {/* Logo */}
-        <Link to="/" className="flex items-center gap-3 text-white font-heading font-bold text-xl group" aria-label="CuriFX Home">
-          <div className="w-10 h-10 bg-gradient-to-br from-accent-green via-accent-green to-highlight-gold rounded-xl flex items-center justify-center shadow-lg group-hover:shadow-[0_0_20px_rgba(0,200,150,0.3)] transition-all duration-300">
-            <TrendingUp className="w-6 h-6 text-white" aria-hidden="true" />
-          </div>
-          <div className="flex flex-col">
-            <span className="text-white font-bold text-xl">CuriFX</span>
-            <span className="text-xs text-secondary-text font-normal">Community Hub</span>
-          </div>
-        </Link>
-
-        {/* Desktop Navigation */}
-        <div className="hidden lg:flex items-center gap-1">
-          {navItems.map((item) => (
-            <Link
-              key={item.name}
-              to={item.path}
-              className={`px-4 py-2 rounded-lg font-medium transition-all duration-200 relative group ${
-                isActive(item.path)
-                  ? 'text-accent-green bg-accent-green/10 border border-accent-green/20'
-                  : 'text-secondary-text hover:text-primary-text hover:bg-card-surface/50'
-              }`}
-            >
-              {item.name}
-              {isActive(item.path) && (
-                <div className="absolute bottom-0 left-1/2 transform -translate-x-1/2 w-1 h-1 bg-accent-green rounded-full"></div>
-              )}
-            </Link>
-          ))}
-        </div>
-
-        {/* CTA Button */}
-        <div className="hidden lg:flex items-center gap-3">
-          <Link
-            to="/community"
-            className="px-6 py-2 bg-gradient-to-r from-accent-green to-accent-green/80 text-white font-semibold rounded-xl hover:shadow-[0_0_15px_rgba(0,200,150,0.4)] transition-all duration-300 hover:scale-105"
-            role="button"
-          >
-            Join Community
+          {/* Logo */}
+          <Link to="/" className="flex items-center gap-3 text-white font-heading font-bold text-xl group" aria-label="CuriFX Home">
+            <div className="w-10 h-10 bg-gradient-to-br from-accent-green via-accent-green to-highlight-gold rounded-xl flex items-center justify-center shadow-lg group-hover:shadow-[0_0_20px_rgba(0,200,150,0.3)] transition-all duration-300">
+              <TrendingUp className="w-6 h-6 text-white" aria-hidden="true" />
+            </div>
+            <div className="flex flex-col">
+              <span className="text-white font-bold text-xl">CuriFX</span>
+              <span className="text-xs text-secondary-text font-normal">Community Hub</span>
+            </div>
           </Link>
-        </div>
 
-        {/* Mobile Menu Button */}
-        <button
-          className="lg:hidden text-primary-text p-2 rounded-lg hover:bg-card-surface/50 transition-colors duration-200"
-          onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-          aria-expanded={isMobileMenuOpen}
-          aria-controls="mobile-menu"
-          aria-label={isMobileMenuOpen ? 'Close menu' : 'Open menu'}
-        >
-          {isMobileMenuOpen ? <X className="w-6 h-6" aria-hidden="true" /> : <Menu className="w-6 h-6" aria-hidden="true" />}
-        </button>
+          {/* Desktop Navigation & CTA aligned right */}
+          <div className="hidden lg:flex items-center gap-1 ml-auto">
+            {navItems.map((item) => (
+              <Link
+                key={item.name}
+                to={item.path}
+                className={`px-4 py-2 rounded-lg font-medium transition-all duration-200 relative group ${
+                  isActive(item.path)
+                    ? 'text-accent-green bg-accent-green/10 border border-accent-green/20'
+                    : 'text-secondary-text hover:text-primary-text hover:bg-card-surface/50'
+                }`}
+              >
+                {item.name}
+                {isActive(item.path) && (
+                  <div className="absolute bottom-0 left-1/2 transform -translate-x-1/2 w-1 h-1 bg-accent-green rounded-full"></div>
+                )}
+              </Link>
+            ))}
+            <Link
+              to="/community"
+              className="ml-4 px-6 py-2 bg-gradient-to-r from-accent-green to-accent-green/80 text-white font-semibold rounded-xl hover:shadow-[0_0_15px_rgba(0,200,150,0.4)] transition-all duration-300 hover:scale-105"
+              role="button"
+            >
+              Join Community
+            </Link>
+          </div>
+
+          {/* Mobile Menu Button (3-dots) only on mobile */}
+          <button
+            className="lg:hidden text-primary-text p-2 rounded-lg hover:bg-card-surface/50 transition-colors duration-200"
+            onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+            aria-expanded={isMobileMenuOpen}
+            aria-controls="mobile-menu"
+            aria-label={isMobileMenuOpen ? 'Close menu' : 'Open menu'}
+          >
+            {isMobileMenuOpen ? <X className="w-6 h-6" aria-hidden="true" /> : <Menu className="w-6 h-6" aria-hidden="true" />}
+          </button>
       </div>
 
       {/* Mobile Menu */}
